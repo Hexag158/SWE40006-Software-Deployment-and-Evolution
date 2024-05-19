@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\Task1Package\\Task1Package.wapproj": {}
+  },
+  "projects": {
+    "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\Task1Package\\Task1Package.wapproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\Task1Package\\Task1Package.wapproj",
+        "projectName": "Task1Package",
+        "projectPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\Task1Package\\Task1Package.wapproj",
+        "packagesPath": "C:\\Users\\ngh95\\.nuget\\packages\\",
+        "outputPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\Task1Package\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\AppData\\Vizual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ngh95\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net451"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "targetAlias": "net451",
+            "projectReferences": {
+              "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {
+                "projectPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1702"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "targetAlias": "net451",
+          "dependencies": {
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.22621.756, )"
+            }
+          },
+          "imports": [
+            "netcoreapp3.1",
+            "netcoreapp3.0",
+            "netcoreapp2.0",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net8.0-windows10.0.22621",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+        "projectName": "WinFormsApp",
+        "projectPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+        "packagesPath": "C:\\Users\\ngh95\\.nuget\\packages\\",
+        "outputPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\AppData\\Vizual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ngh95\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DLL_GOODBYE">
+      <HintPath>..\..\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.dll</HintPath>
+    </Reference>
+    <Reference Include="DLL_HELLO">
+      <HintPath>..\..\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

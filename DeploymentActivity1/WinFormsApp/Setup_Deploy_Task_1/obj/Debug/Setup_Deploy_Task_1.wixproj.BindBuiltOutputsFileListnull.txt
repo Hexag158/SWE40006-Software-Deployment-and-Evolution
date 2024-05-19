@@ -1,0 +1,2 @@
+D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Setup_Deploy_Task_1\bin\Debug\Setup_Deploy_Task_1.msi
+D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Setup_Deploy_Task_1\bin\Debug\Setup_Deploy_Task_1.wixpdb

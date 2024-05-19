@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="Setup_Deploy_Task_1" Language="1033" Version="1.0.0.0" Manufacturer="N" UpgradeCode="7774e7b1-4c57-4b52-9e59-f521695b92a7">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="Setup_Deploy_Task_1" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="Deploy_Task_1_Installer" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+			<Component Id="WinFormsApp.exe" Guid="6045874A-D323-48E2-8DEC-8CEF4BA46967" >
+				<File Id="WinFormsApp.exe" Name="WinFormsApp.exe" Source="$(var.WinFormsApp.TargetDir)WinFormsApp.exe"></File>
+			</Component>
+
+		</ComponentGroup>
+	</Fragment>
+</Wix>

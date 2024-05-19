@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6A1Bf21haXlczmUrL0mWVJtHZ8u1pbMgVZpBP5U4nuq8lyG6Zjry9/cGti7wh+gEj7+sr5mUfdS9oobhTtQrw==",
+  "success": true,
+  "projectFilePath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngh95\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.4\\microsoft.netcore.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\ngh95\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\ngh95\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x86.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

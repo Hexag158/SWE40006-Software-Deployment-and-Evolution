@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\split.pri"			"resources.pri"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\Images\SplashScreen.scale-200.png"			"Images\SplashScreen.scale-200.png"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"
+"D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\PackageLayout\dtp.pfx"			"dtp.pfx"

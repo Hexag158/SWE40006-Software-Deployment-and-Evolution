@@ -1,0 +1,2 @@
+MainPackage=D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\x86\Debug\Task1Package_1.0.3.0_x86_Debug.msix
+SymbolPackage=D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\x86\Debug\Symbols\Task1Package_1.0.3.0_x86_Debug.appxsym

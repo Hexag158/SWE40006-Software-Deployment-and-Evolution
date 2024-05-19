@@ -1,0 +1,6 @@
+D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Setup_Deploy_Task_1\bin\Debug\Setup_Deploy_Task_1.msi
+D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Setup_Deploy_Task_1\bin\Debug\Setup_Deploy_Task_1.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Setup_Deploy_Task_1.wixproj.BindContentsFileListnull.txt
+obj\Debug\Setup_Deploy_Task_1.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Setup_Deploy_Task_1.wixproj.BindBuiltOutputsFileListnull.txt

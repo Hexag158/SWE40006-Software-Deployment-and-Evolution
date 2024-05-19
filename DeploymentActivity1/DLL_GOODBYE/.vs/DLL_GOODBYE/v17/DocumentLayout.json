@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\DLL_GOODBYE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06370F0F-337F-4D8D-ADB4-E328015FB1F7}|DLL_GOODBYE\\DLL_GOODBYE.csproj|d:\\major swinburne\\swe40006\\deploymentactivity1\\dll_goodbye\\dll_goodbye\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06370F0F-337F-4D8D-ADB4-E328015FB1F7}|DLL_GOODBYE\\DLL_GOODBYE.csproj|solutionrelative:dll_goodbye\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\DLL_GOODBYE\\DLL_GOODBYE\\Class1.cs",
+              "RelativeDocumentMoniker": "DLL_GOODBYE\\Class1.cs",
+              "ToolTip": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\DLL_GOODBYE\\DLL_GOODBYE\\Class1.cs",
+              "RelativeToolTip": "DLL_GOODBYE\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:35:06.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.deps.json
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.dll
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.pdb
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\DLL_GOODBYE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\DLL_GOODBYE.AssemblyInfoInputs.cache
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\DLL_GOODBYE.AssemblyInfo.cs
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\DLL_GOODBYE.csproj.CoreCompileInputs.cache
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\DLL_GOODBYE.dll
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\refint\DLL_GOODBYE.dll
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\DLL_GOODBYE.pdb
+D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\obj\Debug\net8.0\ref\DLL_GOODBYE.dll
