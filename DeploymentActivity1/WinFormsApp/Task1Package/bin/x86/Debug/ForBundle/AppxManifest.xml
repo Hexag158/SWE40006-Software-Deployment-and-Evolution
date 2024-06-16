@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="e3997f2e-815d-4d9a-9f85-206cd6909584" Publisher="CN=ngh95, O=Contoso Corporation, C=US" Version="1.0.3.0" ProcessorArchitecture="x86" />
+  <Identity Name="e3997f2e-815d-4d9a-9f85-206cd6909584" Publisher="CN=ngh95" Version="1.0.7.0" ProcessorArchitecture="x86" />
   <Properties>
     <DisplayName>Task1Package</DisplayName>
     <PublisherDisplayName>ngh95</PublisherDisplayName>

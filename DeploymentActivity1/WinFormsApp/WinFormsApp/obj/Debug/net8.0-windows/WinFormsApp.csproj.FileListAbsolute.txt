@@ -20,3 +20,49 @@ D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debu
 D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_HELLO.pdb
 D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
 D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_GOODBYE.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_GOODBYE.pdb
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_HELLO.pdb
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Form1.resources
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.sourcelink.json
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_GOODBYE.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_GOODBYE.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\DLL_HELLO.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Form1.resources
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.sourcelink.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinForms.79E25943.Up2Date
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll

@@ -1,1 +1,1 @@
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\AppPackages\Task1Package_1.0.3.0_Debug_Test\Task1Package_1.0.3.0_x86_Debug.msixbundle
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\AppPackages\Task1Package_1.0.7.0_Debug_Test\Task1Package_1.0.7.0_x86_Debug.msixbundle

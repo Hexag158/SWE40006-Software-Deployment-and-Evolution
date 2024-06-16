@@ -8,8 +8,8 @@
 
   <Identity
     Name="e3997f2e-815d-4d9a-9f85-206cd6909584"
-    Publisher="CN=ngh95, O=Contoso Corporation, C=US"
-    Version="1.0.3.0" />
+    Publisher="CN=ngh95"
+    Version="1.0.7.0" />
 
   <Properties>
     <DisplayName>Task1Package</DisplayName>

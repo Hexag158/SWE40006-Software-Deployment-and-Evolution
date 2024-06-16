@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {}
+    "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {}
   },
   "projects": {
-    "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {
+    "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+        "projectUniqueName": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
         "projectName": "WinFormsApp",
-        "projectPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+        "projectPath": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
         "packagesPath": "C:\\Users\\ngh95\\.nuget\\packages\\",
-        "outputPath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\obj\\",
+        "outputPath": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentActivity1\\WinFormsApp\\WinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\AppData\\Vizual Studio\\Shared\\NuGetPackages"

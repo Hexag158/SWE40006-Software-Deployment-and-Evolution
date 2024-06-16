@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "opxvbrSvg9EVRmlvAWm8SetsJ+VbTWyt1wIYwfAKNEXxIw2SdmJ5z8Ab90hcHFBODLIBmnd9UoMe2NX8EvfEew==",
+  "dgSpecHash": "iwhVRoG4u0AsU8tmeaNqdpJ2qGQS8YH0aP9td9Hgz61xsKbUf/eJe0JIRN98Gyv6J4QhCzllZ8cziBw3+VuZOw==",
   "success": true,
-  "projectFilePath": "D:\\Major Swinburne\\SWE40006\\DeploymentActivity1\\WinFormsApp\\Task1Package\\Task1Package.wapproj",
+  "projectFilePath": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentActivity1\\WinFormsApp\\Task1Package\\Task1Package.wapproj",
   "expectedPackageFiles": [
     "D:\\AppData\\Vizual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512"
   ],

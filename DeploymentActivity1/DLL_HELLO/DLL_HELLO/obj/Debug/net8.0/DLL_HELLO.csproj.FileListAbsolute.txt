@@ -9,3 +9,15 @@ D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\ne
 D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\refint\DLL_HELLO.dll
 D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.pdb
 D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\ref\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.deps.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.AssemblyInfoInputs.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.AssemblyInfo.cs
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.csproj.CoreCompileInputs.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.sourcelink.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\refint\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\DLL_HELLO.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\obj\Debug\net8.0\ref\DLL_HELLO.dll

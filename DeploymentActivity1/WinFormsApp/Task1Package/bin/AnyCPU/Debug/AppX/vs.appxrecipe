@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NGHIA-LAPTECH</Machine>
+    <WindowsUser>ngh95</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e3997f2e-815d-4d9a-9f85-206cd6909584</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ngh95, O=Contoso Corporation, C=US</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>5FC891A37A3BD06BCA978D970F86FA19517BBB491B427C25076A7462A04084C4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e3997f2e-815d-4d9a-9f85-206cd6909584_1.0.4.0_neutral__kctm8sd64a3pr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e3997f2e-815d-4d9a-9f85-206cd6909584_kctm8sd64a3pr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e3997f2e-815d-4d9a-9f85-206cd6909584</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ngh95, O=Contoso Corporation, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.4.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-06-14T10:05:21.256</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\dtp.pfx">
+      <PackagePath>dtp.pfx</PackagePath>
+      <Modified>2024-05-19T11:36:04.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-05-12T04:40:18.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2024-05-12T04:40:18.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-05-12T04:40:18.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-05-12T04:40:18.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-05-12T04:40:18.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-05-12T04:40:18.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-05-12T04:40:18.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2024-06-14T10:05:21.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.dll">
+      <PackagePath>WinFormsApp\DLL_GOODBYE.dll</PackagePath>
+      <Modified>2024-05-19T08:42:36.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.dll">
+      <PackagePath>WinFormsApp\DLL_HELLO.dll</PackagePath>
+      <Modified>2024-06-14T09:49:55.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json">
+      <PackagePath>WinFormsApp\WinFormsApp.deps.json</PackagePath>
+      <Modified>2024-06-14T10:05:19.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\apphost.exe">
+      <PackagePath>WinFormsApp\WinFormsApp.exe</PackagePath>
+      <Modified>2024-06-14T10:05:19.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json">
+      <PackagePath>WinFormsApp\WinFormsApp.runtimeconfig.json</PackagePath>
+      <Modified>2024-06-14T10:05:19.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll">
+      <PackagePath>WinFormsApp\WinFormsApp.dll</PackagePath>
+      <Modified>2024-06-14T10:05:19.182</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

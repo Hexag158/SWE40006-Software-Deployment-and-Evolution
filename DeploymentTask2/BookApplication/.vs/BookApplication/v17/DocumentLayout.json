@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616161146_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240616161146_New.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|d:\\majorswinburne\\swe40006 - deploy\\deploymenttask2\\bookapplication\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|d:\\majorswinburne\\swe40006 - deploy\\deploymenttask2\\bookapplication\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616155026_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240616155026_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|d:\\majorswinburne\\swe40006 - deploy\\deploymenttask2\\bookapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorPagesBookContext_63b56ccb_cad5_4f0b_b0cc_711d8c77c4f9/True/SqlTable/dbo.Book.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|d:\\majorswinburne\\swe40006 - deploy\\deploymenttask2\\bookapplication\\migrations\\20240616145131_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:migrations\\20240616145131_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\data\\razorpagesbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:data\\razorpagesbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|RazorPagesBook.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E370917-8F71-407F-9810-258B2623A71D}|BookApplication.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240616161146_New.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616161146_New.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240616161146_New.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616161146_New.cs",
+              "RelativeToolTip": "Migrations\\20240616161146_New.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:11:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:45:04.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:50:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:50:51.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Details.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:50:51.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Delete.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:50:52.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Models\\Books.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Models\\Books.cs",
+              "RelativeToolTip": "Models\\Books.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:06:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:50:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240616155026_Rating.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616155026_Rating.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240616155026_Rating.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616155026_Rating.cs",
+              "RelativeToolTip": "Migrations\\20240616155026_Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:50:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Index.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:50:52.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:50:50.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T15:20:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:29:00.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240616145131_InitialCreate.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616145131_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240616145131_InitialCreate.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Migrations\\20240616145131_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240616145131_InitialCreate.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:51:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Models\\Books.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Models\\Books.cs",
+              "RelativeToolTip": "Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:34:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Book [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorPagesBookContext_63b56ccb_cad5_4f0b_b0cc_711d8c77c4f9/True/SqlTable/dbo.Book.sql",
+              "ToolTip": "dbo.Book [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-16T15:03:56.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:50:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:50:51.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:50:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Books\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:50:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RazorPagesBookContext.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Data\\RazorPagesBookContext.cs",
+              "RelativeDocumentMoniker": "Data\\RazorPagesBookContext.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Data\\RazorPagesBookContext.cs",
+              "RelativeToolTip": "Data\\RazorPagesBookContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:50:51.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:47:01.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T14:46:58.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:28:59.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:28:55.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MajorSwinburne\\SWE40006 - Deploy\\DeploymentTask2\\BookApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T14:28:58.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

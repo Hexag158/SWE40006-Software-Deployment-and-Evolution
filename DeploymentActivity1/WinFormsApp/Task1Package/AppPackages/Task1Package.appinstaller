@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="file:///D:/Major Swinburne/SWE40006/DeploymentActivity1/WinFormsApp/Task1Package/AppPackages/Installer/Task1Package.appinstaller"
-	Version="1.0.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="e3997f2e-815d-4d9a-9f85-206cd6909584"
-		Version="1.0.3.0"
-		Publisher="CN=ngh95, O=Contoso Corporation, C=US"
-		Uri="file:///D:/Major Swinburne/SWE40006/DeploymentActivity1/WinFormsApp/Task1Package/AppPackages/Installer/Task1Package_1.0.3.0_Debug_Test/Task1Package_1.0.3.0_x86_Debug.msixbundle" />
+		Version="1.0.7.0"
+		Publisher="CN=ngh95"
+		Uri="file:///D:/Major Swinburne/SWE40006/DeploymentActivity1/WinFormsApp/Task1Package/AppPackages/Installer/Task1Package_1.0.7.0_Debug_Test/Task1Package_1.0.7.0_x86_Debug.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />

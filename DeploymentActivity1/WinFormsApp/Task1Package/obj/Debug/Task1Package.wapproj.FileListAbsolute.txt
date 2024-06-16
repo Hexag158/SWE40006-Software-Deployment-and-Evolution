@@ -29,3 +29,65 @@ D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Deb
 D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\ProjectArchitectures.txt
 D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\Task1Package.wapproj.LastBuild.txt
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_GOODBYE.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_GOODBYE.pdb
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_HELLO.pdb
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.deps.json
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.exe
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.runtimeconfig.json
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.pdb
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\resources.pri
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\AppxManifest.xml
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\Task1Package.build.appxrecipe
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\Task1Package.wapproj.AssemblyReference.cache
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\Task1Package.wapproj.CoreCompileInputs.cache
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\priconfig.xml
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\priconfig.xml.intermediate
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\unfiltered.layout.resfiles
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\unfiltered.layout.resfiles.intermediate
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\filtered.layout.resfiles
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\filtered.layout.resfiles.intermediate
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\excluded.layout.resfiles
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\excluded.layout.resfiles.intermediate
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\resources.resfiles
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\resources.resfiles.intermediate
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\pri.resfiles
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\pri.resfiles.intermediate
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\qualifiers.txt
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\qualifiers.txt.intermediate
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\ProjectArchitectures.txt
+D:\MajorSwinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\Task1Package.wapproj.LastBuild.txt
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_GOODBYE.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_GOODBYE.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\DLL_HELLO.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.deps.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.exe
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.runtimeconfig.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\WinFormsApp\WinFormsApp.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\resources.pri
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\AppxManifest.xml
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\Task1Package.build.appxrecipe
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\Task1Package.wapproj.AssemblyReference.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\Task1Package.wapproj.CoreCompileInputs.cache
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\priconfig.xml
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\priconfig.xml.intermediate
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\unfiltered.layout.resfiles
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\unfiltered.layout.resfiles.intermediate
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\filtered.layout.resfiles
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\filtered.layout.resfiles.intermediate
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\excluded.layout.resfiles
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\excluded.layout.resfiles.intermediate
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\resources.resfiles
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\resources.resfiles.intermediate
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\pri.resfiles
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\pri.resfiles.intermediate
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\qualifiers.txt
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\qualifiers.txt.intermediate
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\ProjectArchitectures.txt
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\obj\Debug\Task1Package.wapproj.LastBuild.txt

@@ -1,0 +1,16 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>47a43304-43b3-4109-9d09-7de9f9d62672</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>IIS</EnvName>
+    <SaveServerSettingsInUserFile>false</SaveServerSettingsInUserFile>
+    <RuntimeVersion>8.0</RuntimeVersion>
+    <PHPDevHostName>localhost</PHPDevHostName>
+    <PHPDevAutoPort>false</PHPDevAutoPort>
+    <PHPDevRouting />
+    <PHPDevPort>80</PHPDevPort>
+    <IISProjectUrl>http://localhost/PHP_HD_APP</IISProjectUrl>
+    <IISExpressSslEnabled>false</IISExpressSslEnabled>
+  </PropertyGroup>
+</Project>

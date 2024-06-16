@@ -1,18 +1,18 @@
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\dtp.pfx
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\Images\SplashScreen.scale-200.png
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\Images\LockScreenLogo.scale-200.png
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square150x150Logo.scale-200.png
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square44x44Logo.scale-200.png
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\Images\StoreLogo.png
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\Images\Wide310x150Logo.scale-200.png
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\resources.pri
-D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.dll
-D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.dll
-D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.pdb
-D:\Major Swinburne\SWE40006\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.pdb
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\apphost.exe
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
-D:\Major Swinburne\SWE40006\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\dtp.pfx
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\SplashScreen.scale-200.png
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\LockScreenLogo.scale-200.png
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square150x150Logo.scale-200.png
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square44x44Logo.scale-200.png
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\StoreLogo.png
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\Images\Wide310x150Logo.scale-200.png
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\Task1Package\bin\AnyCPU\Debug\resources.pri
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_GOODBYE\DLL_GOODBYE\bin\Debug\net8.0\DLL_GOODBYE.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\DLL_HELLO\DLL_HELLO\bin\Debug\net8.0\DLL_HELLO.pdb
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\obj\Debug\net8.0-windows\apphost.exe
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+D:\MajorSwinburne\SWE40006 - Deploy\DeploymentActivity1\WinFormsApp\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
